@@ -1,0 +1,16 @@
+{
+    "name": "vic/press",
+    "description": "a markdown powered for  blog laravel",
+    "autoload": {
+        "psr-4": {
+            "Vic\\Press\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abbosbey2002",
+            "email": "abbosbeyqudratov@gmail.com"
+        }
+    ],
+    "require": {}
+}
